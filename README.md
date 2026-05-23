@@ -1,4 +1,3 @@
-# Student_placement_predictor
 # Intelligent Student Placement Prediction System
 
 AI-powered placement prediction and career guidance system built using machine learning to evaluate student placement readiness and recommend suitable career paths.
